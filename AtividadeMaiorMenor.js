@@ -5,9 +5,9 @@ if (num1 == num2){
 }
 else{
     if (num1 > num2){
-        console.log('O numero 1 '+num1+' é maior que '+num2+'')
+        console.log('O primeiro numero '+num1+' é maior que '+num2+'')
     }
     else{
-        console.log('O numero 2 '+num2+' é maior que '+num1+'')
+        console.log('O segundo numero '+num2+' é maior que '+num1+'')
     }
 }

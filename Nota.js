@@ -1,4 +1,4 @@
-const nota = 4
+const nota = 6
 if(nota >= 6){
     console.log('O aluno foi aprovado')
 }
